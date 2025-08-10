@@ -69,3 +69,7 @@ theme = "paper"
         name = 'Portfolio'
         url = 'https://philippbruhns.com/'
         weight = 10
+
+[caches]
+  [[caches.images]]
+    dir = ':cacheDir/images'
